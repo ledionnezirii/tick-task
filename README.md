@@ -9,6 +9,28 @@ seeded with tasks fetched from a public API.
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Task list</b><br><img src="screenshots/task-list.png" width="220"></td>
+    <td align="center"><b>Add a task</b><br><img src="screenshots/add-task-empty.png" width="220"></td>
+    <td align="center"><b>Filled form</b><br><img src="screenshots/add-task-filled.png" width="220"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Task added</b><br><img src="screenshots/task-added.png" width="220"></td>
+    <td align="center"><b>Details — completed</b><br><img src="screenshots/details-completed.png" width="220"></td>
+    <td align="center"><b>Details — not completed</b><br><img src="screenshots/details-not-completed.png" width="220"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Delete confirmation</b><br><img src="screenshots/delete-confirm.png" width="220"></td>
+    <td align="center"><b>Delete with undo</b><br><img src="screenshots/delete-undo.png" width="220"></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 **Core requirements**
