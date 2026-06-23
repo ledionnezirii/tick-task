@@ -11,7 +11,7 @@ seeded with tasks fetched from a public API.
 
 ## Demo
 
-▶️ **[Watch a short screen recording](screenshots/demo.mov)** — launch, add, complete, details, search/filter, and delete with undo.
+▶️ **[Watch a short screen recording](screenshots/demo.mp4)** — launch, add, complete, details, search/filter, and delete with undo.
 
 ## Screenshots
 
